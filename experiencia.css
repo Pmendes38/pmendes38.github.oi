@@ -1,0 +1,40 @@
+.subtitulo-exp {
+  color: #d2d2d2;
+  max-width: 5ch;
+  font-size: 9rem;
+  word-break: break-all;
+  margin-top: 50px;
+  margin-left: -1220px;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.exp {
+  color: #00020d;
+  margin-left: -550px;
+  margin-top: -520px;
+  margin-bottom: 60px;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.exp strong {
+color: #141414;
+}
+
+.projeto-exp1{
+  display: grid;
+  position: relative;
+  grid-template-columns: 1fr 1fr;
+  padding: 20px;
+  background: #353641;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  margin-left: -500px;
+}
+
+.projeto-ano1 {
+  position:absolute;
+  top: 20px;
+margin-left: -500px;
+}
