@@ -1,0 +1,105 @@
+.background-2 {
+  z-index: -5;
+  display: flex;
+  position: absolute;
+  width: 1902px;
+  height: 3500px;
+  background-color: #000;
+  margin-top: 100px;
+}
+
+.subtitulo-projeto {
+  font-family: tourney, Arial, Helvetica, sans-serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-top: 200px;
+  color: #fff;
+  margin-left: 790px;
+}
+
+.subtitulo-projeto strong {
+  font-size: 3.5rem;
+font-size: 700;
+color: #F0243C;
+}
+
+.projetodescrição {
+color: #4D4D51;
+font-size: 1.1rem;
+font-weight: 500;
+max-width: 75ch;
+margin-top: 300px;
+margin-left: -450px;
+}
+
+#logoharley {
+height: 100px;
+ width: 130px;
+ margin-top: 460px;
+margin-left: -1100px;
+}
+
+#foto-projeto-1 {
+  position: absolute;
+top: 5590px;
+}
+.header-projeto {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  color: #fff;
+  font-size: 1.5rem;
+  top: 495px;
+  left: 800px;
+  word-spacing: 20px;
+}
+
+.subtitulo-todosprojeto{
+  z-index: 3;
+  position: absolute;
+  font-family: tourney, Arial, Helvetica, sans-serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+top: 6850px;
+  color: #fff;
+  margin-left: 720px;
+}
+.subtitulo-todosprojeto strong {
+  font-size: 3.5rem;
+font-size: 700;
+color: #F0243C;
+}
+.projetodescrição2 {
+  color: #4D4D51;
+  font-size: 1.1rem;
+  font-weight: 500;
+  max-width: 75ch;
+  margin-top: 1950px;
+  margin-left: -125px;
+  }
+
+  .todasaaspaginas{
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    top: 7200px;
+    margin-left: 200px;
+    left: -100px;
+  }
+  #depoimento {
+   position: absolute;
+    top: 650px;
+  }
+  #diferencial-projeto1 {
+    position: absolute;
+left: 900px;
+  }
+  #valores-projeto1{
+    position: absolute;
+    top: 650px;
+    left: 900px;
+  }
+
+  
