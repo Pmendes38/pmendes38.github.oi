@@ -1,0 +1,237 @@
+.subtitulo-formacao {
+  color: #000;
+  max-width: 6ch;
+  font-size: 9rem;
+  word-break: break-all;
+  margin-top: 50px;
+  margin-left: -1290px;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.formaçao {
+  color: #fff;
+  max-width: 40ch;
+  margin-left: 250px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.square1 {
+  z-index: -1;
+  display: flex;
+  position: absolute;
+  width: 210px;
+  height: 230px;
+  border-radius: 5px;
+  background-color: #000;
+  margin-top: 290px;
+  right: 750px;
+}
+.redsquare1{
+  display: flex;
+  position: absolute;
+  width: 18px;
+  border-radius: 2px;
+  height: 50px;
+  background-color: #F0243C;
+  margin-top: 315px;
+  left: 942px;
+}
+.square2 {
+  z-index: -1;
+  display: flex;
+  position: absolute;
+  width: 210px;
+  height: 230px;
+  border-radius: 5px;
+  background-color: #000;
+  margin-top: 290px;
+  right: 520px;
+}
+.redsquare2{
+  display: flex;
+  position: absolute;
+  width: 18px;
+  border-radius: 2px;
+  height: 50px;
+  background-color: #F0243C;
+  margin-top: 315px;
+  left: 1173px;
+}
+.square3 {
+  z-index: -1;
+  display: flex;
+  position: absolute;
+  width: 210px;
+  height: 230px;
+  border-radius: 5px;
+  background-color: #000;
+  margin-top: 290px;
+  right: 292px;
+}
+.redsquare3{
+  display: flex;
+  position: absolute;
+  width: 18px;
+  border-radius: 2px;
+  height: 50px;
+  background-color: #F0243C;
+  margin-top: 315px;
+  left: 1401px;
+}
+.faculdade-tipo1{
+  z-index: 1;
+  color: #fff;
+  display: inline-block;
+  margin-left: -540px;
+  margin-top: 310px;
+  margin-bottom: -10px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 200;
+}
+.faculdade-tipo2{
+  z-index: 1;
+  color: #fff;
+  display: absolute;
+  margin-left: -305px;
+margin-top: -180px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 200;
+}
+.faculdade-tipo3{
+  z-index: 1;
+  color: #fff;
+  display: flex;
+  margin-left: -75px;
+margin-top: -180px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.faculdade-instituição1{
+  z-index: 1;
+  color: #fff;
+  display: flex;
+margin-left: -525px;
+margin-top: 145px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.faculdade-instituição2{
+  z-index: 1;
+  color: #fff;
+  display: flex;
+margin-left: -295px;
+margin-top: 128px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.faculdade-instituição3{
+  z-index: 1;
+  color: #fff;
+  display: flex;
+margin-left: -70px;
+margin-top: 125px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.faculdade-curso1{
+  z-index: 1;
+  color: #fff;
+  display: inline-block;
+left: -165px;
+  top: 60px;
+  font-size: 13px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.faculdade-curso2{
+  z-index: 1;
+  color: #fff;
+  display: inline-block;
+left: -300px;
+  top: 25px;
+  font-size: 13px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.faculdade-curso3{
+  z-index: 1;
+  color: #fff;
+  display: inline-block;
+left: -75px;
+  top: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.cursosintensivo {
+  color: #fff;
+  top: 680px;
+  left: -440px;
+  white-space: nowrap;
+  margin-top: -110px;
+}
+
+.cursoslista {
+  display: flex;
+  flex-direction: column;
+  margin-top: 650px;
+  margin-left: -480px;
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+.cargahoraria {
+  display: flex;
+  flex-direction: column;
+  margin-top: 658px;
+  margin-left: 100px;
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #fff;
+}
+.cursoslista2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 650px;
+  margin-left: -820px;
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+.cargahoraria2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 658px;
+  margin-left: 80px;
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+
+.background-1 {
+  z-index: -5;
+  display: flex;
+  position: absolute;
+  width: 1902px;
+  height: 1300px;
+  background-color: #121316;
+  margin-top: -1200px;
+
+}

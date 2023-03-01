@@ -4,7 +4,7 @@
   font-size: 9rem;
   word-break: break-all;
   margin-top: 50px;
-  margin-left: -1390px;
+  margin-left: -1310px;
   text-transform: uppercase;
   line-height: 1.2;
 }
@@ -30,7 +30,7 @@
   gap: 10px 20px;
   padding: 20px;
   background: #353641;
-  margin-bottom: 30 0px;
+  margin-bottom: 300px;
   border-radius: 4px;
   margin-top: -290px;
   margin-left: -550px;
@@ -70,7 +70,7 @@
   font-weight: bold;
   color: #fff;
   left: 60px;
-top: -1.5px;
+  top: -1.5px;
 }
 
 .projeto-texto {
@@ -91,4 +91,34 @@ top: -1.5px;
   border-radius: 4px;
   background: #f0243c;
   padding: 5px 10px;
+}
+
+@media (max-width: 800px) {
+  .experiencia {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .subtitulo-exp {
+    font-size: 3rem;
+    text-transform: capitalize;
+    max-width: initial;
+  }
+  .experiencia .subtitulo-exp {
+    color: #141414;
+  }
+  .experiencia-texto {
+    font-size: 1.2rem;
+  }
+  .empresa-ano {
+    position: initial;
+    order: 1;
+    width: initial;
+    text-align: left;
+  }
+}
+
+@media (max-width: 400px) {
+  .exp {
+    grid-template-columns: 1fr;
+  }
 }
